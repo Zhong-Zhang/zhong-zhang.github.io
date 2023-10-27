@@ -18,8 +18,8 @@ sass:
     style: compressed
     sass_dir: _sass
 
-nav:
-- name: "Resume (CN)"
-  link: "resume_cn.pdf"
+# nav:
+# - name: "Resume (CN)"
+#   link: "resume_cn.pdf"
    
 
