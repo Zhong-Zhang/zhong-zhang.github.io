@@ -114,9 +114,9 @@ We are continuously seeking highly motivated interns who are interested in LLM-b
 
 </div>
 
-# <i class="fa fa-cogs" style="color: #6495ED;"></i> Projects
-- *2025-2026*, China Postdoctoral Science Foundation, General Program
-- *2024-2026*, China Postdoctoral Science Foundation, Postdoctoral Fellowship Program
+# <i class="fa fa-university" style="color: #6495ED;"></i> Research Grants
+- *2025-2026*, PI, China Postdoctoral Science Foundation, General Program.
+- *2024-2026*, PI, China Postdoctoral Science Foundation, Postdoctoral Fellowship Program.
 
 # <i class="fa fa-microphone" style="color: #6495ED;"></i> Invited Talks
 - *2025.11*, GUI Agents Tutorial, Huawei talk.
