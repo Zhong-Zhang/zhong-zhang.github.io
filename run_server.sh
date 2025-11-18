@@ -1,1 +1,1 @@
-bundle exec jekyll serve --open-url --livereload --trace --host localhost
+bundle exec jekyll serve --livereload --trace --host localhost
