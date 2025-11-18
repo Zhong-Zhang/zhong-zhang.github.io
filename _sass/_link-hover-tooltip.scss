@@ -1,0 +1,201 @@
+/* 
+ * Link and Icon Hover Tooltip Styles
+ * 链接和图标悬停提示效果 - 统一版本
+ */
+
+/* ==================== 基础样式 ==================== */
+
+/* 链接基础样式 */
+.paper-box-text a {
+  position: relative;
+  transition: transform 0.2s ease;
+  /* Safari 优化 */
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+  -webkit-transform: translateZ(0);
+  transform: translateZ(0);
+}
+
+.paper-box-text a:hover {
+  transform: scale(1.05) translateZ(0);
+  -webkit-transform: scale(1.05) translateZ(0);
+  z-index: 100000;
+}
+
+/* 新增：禁用 no-tooltip 链接的 scale 效果，防止 Safari 闪烁 */
+.paper-box-text a.no-tooltip {
+  transition: none;
+}
+
+.paper-box-text a.no-tooltip:hover {
+  transform: none;
+  -webkit-transform: none;
+}
+
+/* 图标特殊样式 */
+.paper-box-text .paper-icon {
+  display: inline-block;
+  margin-left: 6px;
+  vertical-align: middle;
+  opacity: 0.7;
+  z-index: 1;
+}
+
+.paper-box-text .paper-icon:hover {
+  opacity: 1;
+  transform: translateY(-2px) translateZ(0);
+  -webkit-transform: translateY(-2px) translateZ(0);
+  z-index: 100000;
+}
+
+/* ==================== Tooltip 主体（统一样式）==================== */
+
+.paper-box-text a:not(.no-tooltip)[data-tooltip]::after,
+.paper-box-text a:not(.no-tooltip)[href*="github.com"]::after,
+.paper-box-text a:not(.no-tooltip)[href*="huggingface.co"]::after,
+.paper-box-text a:not(.no-tooltip)[href*="arxiv.org"]::after,
+.paper-box-text a:not(.no-tooltip)[href*="aclanthology.org"]::after,
+.paper-box-text a:not(.no-tooltip)[href*="openreview.net"]::after,
+.paper-box-text a:not(.no-tooltip)[href*="doi.org"]::after,
+.paper-box-text .paper-icon:not(.no-tooltip)[data-tooltip]::after {
+  position: absolute;
+  left: 50%;
+  top: calc(100% + 9px);
+  transform: translate(-50%, 0);
+  -webkit-transform: translate(-50%, 0);
+  
+  background-color: rgba(77, 77, 77, 0.95);
+  color: rgba(255, 255, 255, 0.95);
+  padding: 5px 10px;
+  border-radius: 3px;
+  font-size: 12px;
+  white-space: nowrap;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+  
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.2s ease, visibility 0.2s ease, transform 0.2s ease;
+  -webkit-transition: opacity 0.2s ease, visibility 0.2s ease, -webkit-transform 0.2s ease;
+  
+  pointer-events: none;
+  z-index: 100000;
+}
+
+/* ==================== Tooltip 内容（自动识别）==================== */
+
+.paper-box-text a:not(.no-tooltip)[data-tooltip]::after,
+.paper-box-text .paper-icon:not(.no-tooltip)[data-tooltip]::after {
+  content: attr(data-tooltip);
+}
+
+.paper-box-text a:not(.no-tooltip)[href*="github.com"]:not([data-tooltip])::after {
+  content: "View on GitHub";
+}
+
+.paper-box-text a:not(.no-tooltip)[href*="huggingface.co/datasets"]:not([data-tooltip])::after {
+  content: "View Dataset";
+}
+
+.paper-box-text a:not(.no-tooltip)[href*="huggingface.co"]:not([data-tooltip]):not([href*="/datasets"])::after {
+  content: "View Model";
+}
+
+.paper-box-text a:not(.no-tooltip)[href*="arxiv.org"]:not([data-tooltip])::after {
+  content: "View Paper";
+}
+
+.paper-box-text a:not(.no-tooltip)[href*="aclanthology.org"]:not([data-tooltip])::after {
+  content: "View Paper";
+}
+
+.paper-box-text a:not(.no-tooltip)[href*="openreview.net"]:not([data-tooltip])::after {
+  content: "View Paper";
+}
+
+.paper-box-text a:not(.no-tooltip)[href*="doi.org"]:not([data-tooltip])::after {
+  content: "View Paper";
+}
+
+/* ==================== Tooltip 箭头（统一样式）==================== */
+
+.paper-box-text a:not(.no-tooltip)[data-tooltip]::before,
+.paper-box-text a:not(.no-tooltip)[href*="github.com"]::before,
+.paper-box-text a:not(.no-tooltip)[href*="huggingface.co"]::before,
+.paper-box-text a:not(.no-tooltip)[href*="arxiv.org"]::before,
+.paper-box-text a:not(.no-tooltip)[href*="aclanthology.org"]::before,
+.paper-box-text a:not(.no-tooltip)[href*="openreview.net"]::before,
+.paper-box-text a:not(.no-tooltip)[href*="doi.org"]::before,
+.paper-box-text .paper-icon:not(.no-tooltip)[data-tooltip]::before {
+  content: '';
+  position: absolute;
+  left: 50%;
+  top: calc(100% + 6px);
+  transform: translate(-50%, 0);
+  -webkit-transform: translate(-50%, 0);
+  
+  border-left: 4px solid transparent;
+  border-right: 4px solid transparent;
+  border-bottom: 4px solid rgba(77, 77, 77, 0.95);
+  
+  opacity: 0;
+  visibility: hidden;
+  transition: opacity 0.2s ease, visibility 0.2s ease, transform 0.2s ease;
+  -webkit-transition: opacity 0.2s ease, visibility 0.2s ease, -webkit-transform 0.2s ease;
+  
+  pointer-events: none;
+  z-index: 100001;
+}
+
+/* ==================== Hover 显示状态（统一）==================== */
+
+.paper-box-text a:not(.no-tooltip):hover::after,
+.paper-box-text a:not(.no-tooltip):hover::before,
+.paper-box-text .paper-icon:not(.no-tooltip):hover::after,
+.paper-box-text .paper-icon:not(.no-tooltip):hover::before {
+  opacity: 1;
+  visibility: visible;
+  transform: translate(-50%, 0);
+  -webkit-transform: translate(-50%, 0);
+}
+
+/* ==================== 图片和图标样式 ==================== */
+
+/* Badge 图片 */
+.paper-box-text a img {
+  display: inline-block;
+  vertical-align: middle;
+  transition: transform 0.2s ease;
+  -webkit-transition: -webkit-transform 0.2s ease;
+  /* Safari 优化 */
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+  transform: translateZ(0);
+  -webkit-transform: translateZ(0);
+  /* 降低层级，不遮挡 tooltip */
+  position: relative;
+  z-index: 1;
+}
+
+.paper-box-text a:hover img {
+  transform: scale(1.05) translateZ(0);
+  -webkit-transform: scale(1.05) translateZ(0);
+}
+
+/* 图标图片 */
+.paper-box-text .paper-icon img,
+.paper-box-text .paper-icon svg {
+  width: 18px;
+  height: 18px;
+  vertical-align: middle;
+  display: inline-block;
+}
+
+/* ==================== 响应式调整 ==================== */
+
+@media (max-width: 768px) {
+  .paper-box-text .paper-icon img,
+  .paper-box-text .paper-icon svg {
+    width: 16px;
+    height: 16px;
+  }
+}
