@@ -45,7 +45,7 @@ const translations = {
     'nav.research_grants': '研究项目',
     'nav.invited_talks': '学术报告',
     'nav.professional_services': '学术服务',
-    'nav.teaching': '教学',
+    'nav.teaching': '课程教学',
     
     // 个人信息部分
     'about.title': '个人简介',

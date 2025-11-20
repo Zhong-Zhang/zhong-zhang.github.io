@@ -15,6 +15,7 @@ class LanguageSwitcher {
 
   // 在初始化时缓存所有原始英文内容
   cacheOriginalContent() {
+    // 缓存 data-i18n-inline 元素
     const inlineElements = document.querySelectorAll('[data-i18n-inline]');
     
     inlineElements.forEach((element, index) => {
@@ -22,6 +23,19 @@ class LanguageSwitcher {
       const uniqueId = `inline-${index}`;
       element.setAttribute('data-inline-id', uniqueId);
       this.originalContent.set(uniqueId, element.innerHTML);
+    });
+
+    // 缓存 data-i18n-config 元素的英文内容（新增）
+    const configElements = document.querySelectorAll('[data-i18n-config]');
+    
+    configElements.forEach((element, index) => {
+      const uniqueId = `config-${index}`;
+      element.setAttribute('data-config-id', uniqueId);
+      // 缓存 data-lang-en 的内容
+      const enContent = element.getAttribute('data-lang-en');
+      if (enContent) {
+        this.originalContent.set(uniqueId, enContent);
+      }
     });
   }
 
@@ -162,6 +176,33 @@ class LanguageSwitcher {
           }, 200);
         } else {
           element.innerHTML = translation;
+        }
+      }
+    });
+
+    // 处理使用 _config.yml 变量的元素（新增）
+    const configElements = document.querySelectorAll('[data-i18n-config]');
+    
+    configElements.forEach(element => {
+      // 从 data-lang-* 属性获取翻译
+      const translation = element.getAttribute(`data-lang-${lang}`);
+      
+      if (translation) {
+        // 使用与其他元素相同的动画效果
+        if (animate) {
+          element.classList.add('lang-fade-out');
+          
+          setTimeout(() => {
+            element.textContent = translation;
+            element.classList.remove('lang-fade-out');
+            element.classList.add('lang-fade-in');
+            
+            setTimeout(() => {
+              element.classList.remove('lang-fade-in');
+            }, 300);
+          }, 200);
+        } else {
+          element.textContent = translation;
         }
       }
     });

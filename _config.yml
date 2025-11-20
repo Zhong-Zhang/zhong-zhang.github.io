@@ -8,6 +8,7 @@
 # Site Settings
 title                    : "Zhong Zhang (张众)"
 description              : "Postdoctoral Researcher at Tsinghua University"
+description_zh           : "清华大学博士后"
 repository               : "Zhong-Zhang/zhong-zhang.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,7 +25,9 @@ author:
   name             : "Zhong Zhang (张众)"
   avatar           : "images/android-chrome-512x512.png"
   bio              : ""
+  bio_zh           : ""
   location         : "Beijing, China"
+  location_zh      : "中国北京"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=NX5TeR4AAAAJ"

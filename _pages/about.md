@@ -66,7 +66,7 @@ redirect_from:
 
 <ul style="list-style-type: disc; padding-left: 2rem;">
 <li data-i18n-inline 
-    data-lang-zh='AgentCPM-GUI是一个基于<a href="https://huggingface.co/openbmb/MiniCPM-V-2_6" class="no-tooltip">MiniCPM-V 2.6</a>（最新模型<a href="https://github.com/OpenBMB/MiniCPM-V" class="no-tooltip">地址</a>）所构建的GUI智能体模型，具有强大的GUI感知和推理能力，可自主操作用户手机并完成复杂任务。'
+    data-lang-zh='AgentCPM-GUI是一个基于<a href="https://huggingface.co/openbmb/MiniCPM-V-2_6" class="no-tooltip">MiniCPM-V 2.6</a>（最新模型<a href="https://github.com/OpenBMB/MiniCPM-V" class="no-tooltip">地址</a>）所构建的GUI智能体模型，具有强大的GUI感知和推理能力，可自主操作手机并完成复杂任务。'
     style="display: list-item; list-style-type: disc;">
   AgentCPM-GUI is a GUI agent built upon <a href="https://huggingface.co/openbmb/MiniCPM-V-2_6" class="no-tooltip">MiniCPM-V 2.6</a> (latest update <a href="https://github.com/OpenBMB/MiniCPM-V" class="no-tooltip">here</a>), delivering strong GUI perception and enhanced reasoning for autonomously operating mobile phones.
 </li>
