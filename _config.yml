@@ -161,3 +161,12 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+
+# 在 head_scripts 中添加(如果有的话)
+head_scripts:
+  - /assets/js/i18n.js
+  - /assets/js/lang-switcher.js
+
+# 在 custom CSS 中添加
+custom_css: /assets/css/lang-switcher.css

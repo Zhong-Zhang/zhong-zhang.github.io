@@ -1,0 +1,109 @@
+/* 语言切换按钮样式 */
+.lang-switcher {
+  position: fixed;
+  top: 25px;
+  right: 20px;
+  z-index: 1000;
+}
+
+.lang-btn {
+  background: rgba(255, 255, 255, 0.9);
+  border: 2px solid #494e52;
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.3s ease;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  /* 防止按钮内容影响尺寸 */
+  flex-shrink: 0;
+}
+
+.lang-btn:hover {
+  background: #494e52;
+  transform: scale(1.1);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}
+
+.lang-btn:hover .lang-icon {
+  color: white;
+}
+
+/* 防止按钮点击时出现outline */
+.lang-btn:focus {
+  outline: none;
+}
+
+/* 防止按钮点击时的抖动 */
+.lang-btn:active {
+  transform: scale(1.05);
+}
+
+.lang-icon {
+  font-size: 16px;
+  font-weight: bold;
+  color: #494e52;
+  transition: opacity 0.2s ease, transform 0.2s ease;
+  /* 防止文字大小变化导致按钮跳动 */
+  display: inline-block;
+  line-height: 1;
+  width: 20px;
+  text-align: center;
+}
+
+/* 按钮图标切换动画 - 使用独立类名避免与页面内容动画冲突 */
+.lang-icon.icon-fade-out {
+  opacity: 0;
+  transform: scale(0.8);
+}
+
+/* 页面内容语言切换动画 */
+[data-i18n-inline], 
+[data-i18n], 
+[data-i18n-html] {
+    transition: opacity 0.3s ease-out, transform 0.3s ease-out; /* 稍长一点的过渡作为默认和渐显 */
+    opacity: 1; /* 明确默认状态 */
+    transform: translateY(0); /* 明确默认状态 */
+    display: inline-block; 
+}
+
+.lang-fade-out {
+    transition: opacity 0.2s ease-in, transform 0.2s ease-in;
+    
+    opacity: 0 !important;
+    transform: translateY(-5px); /* 向上移动并消失 */
+}
+
+.lang-fade-in {
+    transition: opacity 0.3s ease-out, transform 0.3s ease-out; /* 与 JS FADE_IN_DURATION 0.3s 匹配 */
+
+    opacity: 1 !important; 
+    transform: translateY(0) !important; 
+}
+
+/* 响应式设计 */
+@media (max-width: 768px) {
+  .lang-switcher {
+    top: 15px;
+    right: 15px;
+  }
+  
+  .lang-btn {
+    width: 45px;
+    height: 45px;
+  }
+  
+  .lang-icon {
+    font-size: 14px;
+  }
+}
+
+/* 防止与移动端菜单按钮冲突 */
+@media (max-width: 768px) {
+  .greedy-nav .visible-links {
+    margin-right: 60px;
+  }
+}

@@ -18,21 +18,38 @@ redirect_from:
 {% include_relative include/bib.md %}
 
 <span class='anchor' id='about-me'></span>
-# <i class="fas fa-address-card" style="color: #6495ED;"></i> Bio
+<h1><i class="fas fa-address-card" style="color: #6495ED;"></i> <span data-i18n="about.title">Bio</span></h1>
 
-I am currently a postdoctoral researcher in the "[Shuimu Tsinghua Scholar Program 水木学者](https://postdoctor.tsinghua.edu.cn/info/zxtz/2097)" at the [Department of Computer Science and Technology](https://www.cs.tsinghua.edu.cn), [Tsinghua University](https://www.tsinghua.edu.cn), advised by [Zhiyuan Liu (刘知远)](https://nlp.csai.tsinghua.edu.cn/~lzy/) in the [THUNLP](https://nlp.csai.tsinghua.edu.cn) Lab. Prior to this, I received my PhD from [University of Electronic Science and Technology of China](https://www.uestc.edu.cn) in 2023 under the supervision of [Junming Shao (邵俊明)](https://dm.uestc.edu.cn), and my bachelor's degree from UESTC in 2016. During my doctoral studies, I was a visiting scholar at [Université de Montréal](https://www.umontreal.ca/) in 2022, advised by [Bang Liu (刘邦)](https://www-labs.iro.umontreal.ca/~liubang/).
+<p 
+  data-i18n-inline
+  data-lang-zh='张众，<a href="https://www.tsinghua.edu.cn">清华大学</a> <a href="https://www.cs.tsinghua.edu.cn">计算机系</a> <a href="https://nlp.csai.tsinghua.edu.cn">自然语言处理实验室</a> “<a href="https://postdoctor.tsinghua.edu.cn/info/zxtz/2097">水木学者</a>”博士后研究员，合作导师为<a href="https://nlp.csai.tsinghua.edu.cn/~lzy/">刘知远</a>副教授。本科（2016）与博士（2023）均毕业于<a href="https://www.uestc.edu.cn">电子科技大学</a>，博士导师为<a href="https://dm.uestc.edu.cn">邵俊明</a>教授。曾于2022年在<a href="https://www.umontreal.ca/">蒙特利尔大学</a> <a href="https://www-labs.iro.umontreal.ca/~liubang/">刘邦</a>副教授课题组访学。'>
+  I am currently a postdoctoral researcher in the "<a href="https://postdoctor.tsinghua.edu.cn/info/zxtz/2097">Shuimu Tsinghua Scholar Program 水木学者</a>" at the <a href="https://nlp.csai.tsinghua.edu.cn">THUNLP</a> Lab, <a href="https://www.cs.tsinghua.edu.cn">Department of Computer Science and Technology</a>, <a href="https://www.tsinghua.edu.cn">Tsinghua University</a>, advised by Assoc. Prof. <a href="https://nlp.csai.tsinghua.edu.cn/~lzy/">Zhiyuan Liu (刘知远)</a>. I received my B.E. (2016) and Ph.D. (2023) from the <a href="https://www.uestc.edu.cn">University of Electronic Science and Technology of China</a>, advised by Prof. <a href="https://dm.uestc.edu.cn">Junming Shao (邵俊明)</a>. I was a visiting scholar at the <a href="https://www.umontreal.ca/">Université de Montréal</a> in 2022, advised by Assoc. Prof. <a href="https://www-labs.iro.umontreal.ca/~liubang/">Bang Liu (刘邦)</a>.
+</p>
 
-I am working on Large Language Models and LLM-based Agents, particularly GUI Agents and Tool Learning. My work has appeared at top-tier venues including ACL, ICLR, EMNLP, SIGIR, and IJCAI, with <a href='https://scholar.google.com/citations?user=NX5TeR4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+<p 
+  data-i18n-inline
+  data-lang-zh='主要研究方向为预训练大模型与大模型智能体，聚焦GUI智能体和工具学习等。在ACL、ICLR、EMNLP、SIGIR、IJCAI等重要国际会议和期刊发表多篇学术论文，谷歌学术引用<a href="https://scholar.google.com/citations?user=NX5TeR4AAAAJ"><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>。'>
+  I am working on Large Language Models and LLM-based Agents, particularly GUI Agents and Tool Learning. My work has appeared at top-tier venues including ACL, ICLR, EMNLP, SIGIR, and IJCAI, with <a href='https://scholar.google.com/citations?user=NX5TeR4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+</p>
 
-👋👋👋 
-We are continuously seeking highly motivated interns who are interested in LLM-based Agent research. See more details [here](https://nlp.csai.tsinghua.edu.cn/join_us/research_direction/details/?slug=autonomous_agent_doctor).
+<p 
+  data-i18n-inline
+  data-lang-zh='👋👋👋 长期招收对大模型智能体研究感兴趣的实习生，欢迎加入我们！<a href="https://nlp.csai.tsinghua.edu.cn/join_us/research_direction/details/?slug=autonomous_agent_doctor">查看详情</a>。'>
+  👋👋👋 We are continuously seeking highly motivated interns who are interested in LLM-based Agent research. See more details <a href="https://nlp.csai.tsinghua.edu.cn/join_us/research_direction/details/?slug=autonomous_agent_doctor">here</a>.
+</p>
 
-# <i class="fas fa-fire" style="color: #6495ED;"></i> News
-- *2025.11*: 🏠🏠🏠 My new homepage is online!
+<h1><i class="fas fas fa-fire" style="color: #6495ED;"></i> <span data-i18n="about.news">News</span></h1>
+<ul data-i18n-inline data-lang-zh='
+<li>2025.11：🏠🏠🏠 个人主页上线！</li>
+'>
+  <li>2025.11: 🏠🏠🏠 My new homepage is online!</li>
+</ul>
 
-# <i class="fa fa-book" style="color: #6495ED;"></i> Selected Publications
+<h1><i class="fa fa-book" style="color: #6495ED;"></i> <span data-i18n="publications.title">Selected Publications</span></h1>
 
-**See full publications at [Google Scholar](https://scholar.google.com/citations?user=NX5TeR4AAAAJ)**
+<p data-i18n-inline data-lang-zh='<strong>完整论文列表请见<a href="https://scholar.google.com/citations?user=NX5TeR4AAAAJ">谷歌学术</a></strong>'>
+  <strong>See full publications at <a href="https://scholar.google.com/citations?user=NX5TeR4AAAAJ">Google Scholar</a></strong>
+</p>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP Demo 2025</div><video src='videos/agentcpm-gui.mp4' width="100%" controls poster="images/paper_poster/agentcpm-gui-poster.png"></video></div></div>
 <div class='paper-box-text' markdown="1">
@@ -45,7 +62,16 @@ We are continuously seeking highly motivated interns who are interested in LLM-b
 
 [![GitHub](https://img.shields.io/github/stars/OpenBMB/AgentCPM-GUI?style=social&label=AgentCPM-GUI)](https://github.com/OpenBMB/AgentCPM-GUI) \| [![HF Model](https://img.shields.io/badge/🤗%20Hugging%20Face-blue?label=Model)](https://huggingface.co/openbmb/AgentCPM-GUI) \| [![HF Dataset](https://img.shields.io/badge/🤗%20Hugging%20Face-blue?label=Data)](https://huggingface.co/datasets/openbmb/CAGUI)
 
-- AgentCPM-GUI is a GUI agent built upon <a href="https://huggingface.co/openbmb/MiniCPM-V-2_6" class="no-tooltip">MiniCPM-V 2.6</a> (latest update <a href="https://github.com/OpenBMB/MiniCPM-V" class="no-tooltip">here</a>), delivering strong GUI perception and enhanced reasoning for autonomously operating mobile phones.
+<!-- - AgentCPM-GUI is a GUI agent built upon <a href="https://huggingface.co/openbmb/MiniCPM-V-2_6" class="no-tooltip">MiniCPM-V 2.6</a> (latest update <a href="https://github.com/OpenBMB/MiniCPM-V" class="no-tooltip">here</a>), delivering strong GUI perception and enhanced reasoning for autonomously operating mobile phones. -->
+
+<ul style="list-style-type: disc; padding-left: 2rem;">
+<li data-i18n-inline 
+    data-lang-zh='AgentCPM-GUI是一个基于<a href="https://huggingface.co/openbmb/MiniCPM-V-2_6" class="no-tooltip">MiniCPM-V 2.6</a>（最新模型<a href="https://github.com/OpenBMB/MiniCPM-V" class="no-tooltip">地址</a>）所构建的GUI智能体模型，具有强大的GUI感知和推理能力，可自主操作用户手机并完成复杂任务。'
+    style="display: list-item; list-style-type: disc;">
+  AgentCPM-GUI is a GUI agent built upon <a href="https://huggingface.co/openbmb/MiniCPM-V-2_6" class="no-tooltip">MiniCPM-V 2.6</a> (latest update <a href="https://github.com/OpenBMB/MiniCPM-V" class="no-tooltip">here</a>), delivering strong GUI perception and enhanced reasoning for autonomously operating mobile phones.
+</li>
+</ul>
+
 </div>
 </div>
 
@@ -79,7 +105,10 @@ We are continuously seeking highly motivated interns who are interested in LLM-b
 
 
 <!-- ## Preprints -->
-<ul style="list-style:none; padding-left:2rem; margin:0;"><li><h2>Preprints</h2></li></ul>
+<ul style="list-style:none; padding-left:2rem; margin:0;">
+  <li><h2><span data-i18n="publications.preprints">Preprints</span></h2></li>
+</ul>
+
 - <span class="badge-inline">Preprint 2025</span> [HCR-Reasoner: Synergizing Large Language Models and Theory for Human-like Causal Reasoning](https://arxiv.org/abs/2505.08750v2). Yanxi Zhang, Xin Cong, **Zhong Zhang**<sup>✉︎</sup>, Xiao Liu, Dongyan Zhao<sup>✉︎</sup>, Yesai Wu
 <a href="https://arxiv.org/pdf/2505.08750v2" class="paper-icon" data-tooltip="Download PDF"><i class="fas fa-file-pdf" style="color: #D32F2F;"></i></a>
 <a href="#" class="paper-icon" data-tooltip="Copy Citation" data-cite-id="ac-reason" onclick="copyCitation('ac-reason'); return false;"><i class="fas fa-quote-left"></i></a>
@@ -87,7 +116,9 @@ We are continuously seeking highly motivated interns who are interested in LLM-b
 
 
 <!-- ## Prior to LLMs -->
-<ul style="list-style:none; padding-left:2rem; margin:0;"><li><h2>Prior to LLMs</h2></li></ul>
+<ul style="list-style:none; padding-left:2rem; margin:0;">
+  <li><h2><span data-i18n="publications.prior">Preprints</span></h2></li>
+</ul>
 - <span class="badge-inline">SIGIR 2023</span> [Alleviating matthew effect of offline reinforcement learning in interactive recommendation](https://doi.org/10.1145/3539618.3591636). Chongming Gao, Kexin Huang, Jiawei Chen<sup>✉︎</sup>, Yuan Zhang, Biao Li, Peng Jiang, Shiqi Wang, **Zhong Zhang**, Xiangnan He<sup>✉︎</sup>
 <a href="https://arxiv.org/pdf/2307.04571" class="paper-icon" data-tooltip="Download PDF"><i class="fas fa-file-pdf" style="color: #D32F2F;"></i></a>
 <a href="#" class="paper-icon" data-tooltip="Copy Citation" data-cite-id="matthew" onclick="copyCitation('matthew'); return false;"><i class="fas fa-quote-left"></i></a>&nbsp;&nbsp;![Award](https://img.shields.io/badge/SIGIR-Best%20Paper%20Award%20Honorable%20Mention?label=Best%20Paper%20Award%20Honorable%20Mention&labelColor=red&color=gray)
@@ -114,25 +145,62 @@ We are continuously seeking highly motivated interns who are interested in LLM-b
 
 </div>
 
-# <i class="fa fa-university" style="color: #6495ED;"></i> Research Grants
-- *2025-2026*, PI, China Postdoctoral Science Foundation, General Program.
-- *2024-2026*, PI, China Postdoctoral Science Foundation, Postdoctoral Fellowship Program.
 
-# <i class="fa fa-microphone" style="color: #6495ED;"></i> Invited Talks
-- *2025.11*, GUI Agents Tutorial, Huawei talk.
-- *2025.08*, Getting Started with LLM Research, CCL 2025.
-- *2025.06*, AgentCPM-GUI: Building Mobile-Use Agents with Reinforcement Fine-Tuning, Wisemodel talk.
-- *2024.08*, Large Language Model-driven Autonomous Agents, MLNLP 2024.
-- *2024.08*, Latest Advances in LLMs, InfiniTensor 2024.
+<!-- 研究项目 -->
+<h1><i class="fa fa-university" style="color: #6495ED;"></i> <span data-i18n="grants.title">Research Grants</span></h1>
+<ul style="list-style-type: disc; padding-left: 2rem;">
+<li data-i18n-inline 
+    data-lang-zh='2025-2026，项目负责人，中国博士后科学基金，面上项目'
+    style="display: list-item; list-style-type: disc;">
+    2025-2026, PI, China Postdoctoral Science Foundation, General Program.
+</li>
+<li data-i18n-inline 
+    data-lang-zh='2024-2026，项目负责人，中国博士后科学基金，国家资助博士后研究人员计划'
+    style="display: list-item; list-style-type: disc;">
+    2024-2026, PI, China Postdoctoral Science Foundation, Postdoctoral Fellowship Program.
+</li>
+</ul>
 
-# <i class="fa fa-id-badge" style="color: #6495ED;"></i> Professional Services
+<!-- 学术报告 -->
+<h1><i class="fa fa-microphone" style="color: #6495ED;"></i> <span data-i18n="talks.title">Invited Talks</span></h1>
+<ul style="list-style-type: disc; padding-left: 2rem;">
+<li data-i18n-inline
+    data-lang-zh='2025.11，GUI智能体，华为报告'
+    style="display: list-item; list-style-type: disc;">
+    2025.11, GUI Agents Tutorial, Huawei Talk.
+</li>
+<li data-i18n-inline
+    data-lang-zh='2025.08，大模型研究起步与个人发展心得分享，CCL 2025'
+    style="display: list-item; list-style-type: disc;">
+    2025.08, Getting Started with LLM Research, CCL 2025.
+</li>
+<li data-i18n-inline
+    data-lang-zh='2025.06，AgentCPM-GUI：基于强化微调构建的GUI智能体'
+    style="display: list-item; list-style-type: disc;">
+    2025.06, AgentCPM-GUI: Building Mobile-Use Agents with Reinforcement Fine-Tuning, Wisemodel Talk.
+</li>
+<li data-i18n-inline
+    data-lang-zh='2024.08，大模型驱动的自主智能体，MLNLP 2024'
+    style="display: list-item; list-style-type: disc;">
+    2024.08, Large Language Model-driven Autonomous Agents, MLNLP 2024.
+</li>
+<li data-i18n-inline
+    data-lang-zh='2024.08，大模型前沿技术，InfiniTensor 2024'
+    style="display: list-item; list-style-type: disc;">
+    2024.08, Latest Advances in LLMs, InfiniTensor 2024.
+</li>
+</ul>
 
+
+
+<!-- 学术服务 -->
+<h1><i class="fa fa-id-badge" style="color: #6495ED;"></i> <span data-i18n="services.title">Professional Services</span></h1>
 <div class="service-scroll" markdown="1">
 
-### Area Chair
+<h3><span data-i18n="services.ac">Area Chair</span></h3>
 1. ACL ARR 2025 October Area Chair
 
-### Conference Reviewer
+<h3><span data-i18n="services.cr">Area Chair</span></h3>
 1. ICLR Program committee 2026, 2025
 2. ACL Program committee 2025, 2024
 3. EMNLP Program committee 2025, 2024
@@ -142,7 +210,7 @@ We are continuously seeking highly motivated interns who are interested in LLM-b
 7. WiNLP Workshop Program committee 2024
 8. DLG4NLP Workshop Technical Program Committees 2022
 
-### Journal Reviewer
+<h3><span data-i18n="services.jr">Area Chair</span></h3>
 1. Information Sciences 2025, 2022
 2. Neural Networks 2024, 2023, 2022
 3. Information Fusion 2025
@@ -152,9 +220,32 @@ We are continuously seeking highly motivated interns who are interested in LLM-b
 
 </div>
 
-# <i class="fa fa fa-graduation-cap" style="color: #6495ED;"></i> Teaching
-### Teaching Assistant
-- *Spring 2020*, Big Data Analysis and Mining (English) - Graduate Students
-- *Spring 2019*, Data Mining and Big Data Analysis - Undergraduate Students
-- *Spring 2017*, Big Data Analysis and Mining (English) - Graduate Students
-- *Autumn 2016*, Probability and Statistics (English) - Undergraduate Students
+<!-- 教学 -->
+<h1><i class="fa fa-graduation-cap" style="color: #6495ED;"></i> <span data-i18n="teaching.title">Teaching</span></h1>
+<h3><span data-i18n="teaching.ta">Teaching Assistant</span></h3>
+<ul style="list-style-type: disc; padding-left: 2rem;">
+<li data-i18n-inline
+    data-lang-zh='2020 春季，《大数据分析与挖掘》（英文授课），研究生课程'
+    style="display: list-item; list-style-type: disc;">
+    Spring 2020, Big Data Analysis and Mining (English), for Graduate Students
+</li>
+
+<li data-i18n-inline
+    data-lang-zh='2019 春季，《数据挖掘与大数据分析》，本科生课程'
+    style="display: list-item; list-style-type: disc;">
+    Spring 2019, Data Mining and Big Data Analysis, for Undergraduate Students
+</li>
+
+<li data-i18n-inline
+    data-lang-zh='2017 春季，《大数据分析与挖掘》（英文授课），研究生课程'
+    style="display: list-item; list-style-type: disc;">
+    Spring 2017, Big Data Analysis and Mining (English), for Graduate Students
+</li>
+
+<li data-i18n-inline
+    data-lang-zh='2016 秋季，《概率论与数理统计》（英文授课），本科生课程'
+    style="display: list-item; list-style-type: disc;">
+    Autumn 2016, Probability and Statistics (English), for Undergraduate Students
+</li>
+
+</ul>
