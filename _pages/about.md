@@ -117,9 +117,9 @@ redirect_from:
 <a href="https://arxiv.org/pdf/2505.08750v2" class="paper-icon" data-tooltip="Download PDF"><i class="fas fa-file-pdf" style="color: #D32F2F;"></i></a>
 <a href="#" class="paper-icon" data-tooltip="Copy Citation" data-cite-id="ac-reason" onclick="copyCitation('ac-reason'); return false;"><i class="fas fa-quote-left"></i></a>
 
-<!-- ## Prior to LLMs -->
+<!-- ## Earlier Research -->
 <ul style="list-style:none; padding-left:2rem; margin:0;">
-  <li><h2><span data-i18n="publications.prior">Preprints</span></h2></li>
+  <li><h2><span data-i18n="publications.prior">Earlier Research</span></h2></li>
 </ul>
 - <span class="badge-inline">SIGIR 2023</span> [Alleviating matthew effect of offline reinforcement learning in interactive recommendation](https://doi.org/10.1145/3539618.3591636). Chongming Gao, Kexin Huang, Jiawei Chen<sup>✉︎</sup>, Yuan Zhang, Biao Li, Peng Jiang, Shiqi Wang, **Zhong Zhang**, Xiangnan He<sup>✉︎</sup>
 <a href="https://arxiv.org/pdf/2307.04571" class="paper-icon" data-tooltip="Download PDF"><i class="fas fa-file-pdf" style="color: #D32F2F;"></i></a>

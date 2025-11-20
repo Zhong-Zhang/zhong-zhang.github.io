@@ -18,7 +18,7 @@ const translations = {
     // 发表论文部分
     'publications.title': 'Selected Publications',
     'publications.preprints': 'Preprints',
-    'publications.prior': 'Prior to LLMs',
+    'publications.prior': 'Earlier Research',
     
     // 项目部分
     'grants.title': 'Research Grants',
@@ -54,7 +54,7 @@ const translations = {
     // 发表论文部分
     'publications.title': '发表论文',
     'publications.preprints': '预印本',
-    'publications.prior': '大模型之前',
+    'publications.prior': '早期研究',
     
     // 项目部分
     'grants.title': '研究项目',
