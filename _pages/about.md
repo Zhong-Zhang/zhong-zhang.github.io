@@ -203,14 +203,14 @@ redirect_from:
 1. ACL ARR 2025 October Area Chair
 
 <h3><span data-i18n="services.cr">Area Chair</span></h3>
-1. ICLR Program committee 2026, 2025
-2. ACL Program committee 2025, 2024
-3. EMNLP Program committee 2025, 2024
-4. AAAI Program committee 2026, 2025
-5. NLPCC Program committee 2025, 2024
-6. ECMLPKDD Program committee 2025
-7. WiNLP Workshop Program committee 2024
-8. DLG4NLP Workshop Technical Program Committees 2022
+1. ICLR Program Committee 2026, 2025
+2. ACL Program Committee 2025, 2024
+3. EMNLP Program Committee 2025, 2024
+4. AAAI Program Committee 2026, 2025
+5. NLPCC Program Committee 2025, 2024
+6. ECMLPKDD Program Committee 2025
+7. WiNLP Workshop Program Committee 2024
+8. DLG4NLP Workshop Technical Program Committee 2022
 
 <h3><span data-i18n="services.jr">Area Chair</span></h3>
 1. Information Sciences 2025, 2022
