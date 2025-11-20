@@ -17,6 +17,7 @@ redirect_from:
 
 {% include_relative include/bib.md %}
 
+<!-- Bio -->
 <span class='anchor' id='about-me'></span>
 <h1><i class="fas fa-address-card" style="color: #6495ED;"></i> <span data-i18n="about.title">Bio</span></h1>
 
@@ -38,13 +39,19 @@ redirect_from:
   👋👋👋 We are continuously seeking highly motivated interns who are interested in LLM-based Agent research. See more details <a href="https://nlp.csai.tsinghua.edu.cn/join_us/research_direction/details/?slug=autonomous_agent_doctor">here</a>.
 </p>
 
+<!-- News -->
+<span class='anchor' id='news'></span>
 <h1><i class="fas fas fa-fire" style="color: #6495ED;"></i> <span data-i18n="about.news">News</span></h1>
-<ul data-i18n-inline data-lang-zh='
-<li>2025.11：🏠🏠🏠 个人主页上线！</li>
-'>
-  <li>2025.11: 🏠🏠🏠 My new homepage is online!</li>
+<ul style="list-style-type: disc; padding-left: 2rem;">
+<li data-i18n-inline 
+    data-lang-zh='2025.11：🏠🏠🏠 个人主页上线！'
+    style="display: list-item; list-style-type: disc;">
+    2025.11: 🏠🏠🏠 My new homepage is online!
+</li>
 </ul>
 
+<!-- Publications -->
+<span class='anchor' id='selected-publications'></span>
 <h1><i class="fa fa-book" style="color: #6495ED;"></i> <span data-i18n="publications.title">Selected Publications</span></h1>
 
 <p data-i18n-inline data-lang-zh='<strong>完整论文列表请见<a href="https://scholar.google.com/citations?user=NX5TeR4AAAAJ">谷歌学术</a></strong>'>
@@ -61,8 +68,6 @@ redirect_from:
 <a href="#" class="paper-icon" data-tooltip="Copy Citation" data-cite-id="agentcpm" onclick="copyCitation('agentcpm'); return false;"><i class="fas fa-quote-left"></i></a>
 
 [![GitHub](https://img.shields.io/github/stars/OpenBMB/AgentCPM-GUI?style=social&label=AgentCPM-GUI)](https://github.com/OpenBMB/AgentCPM-GUI) \| [![HF Model](https://img.shields.io/badge/🤗%20Hugging%20Face-blue?label=Model)](https://huggingface.co/openbmb/AgentCPM-GUI) \| [![HF Dataset](https://img.shields.io/badge/🤗%20Hugging%20Face-blue?label=Data)](https://huggingface.co/datasets/openbmb/CAGUI)
-
-<!-- - AgentCPM-GUI is a GUI agent built upon <a href="https://huggingface.co/openbmb/MiniCPM-V-2_6" class="no-tooltip">MiniCPM-V 2.6</a> (latest update <a href="https://github.com/OpenBMB/MiniCPM-V" class="no-tooltip">here</a>), delivering strong GUI perception and enhanced reasoning for autonomously operating mobile phones. -->
 
 <ul style="list-style-type: disc; padding-left: 2rem;">
 <li data-i18n-inline 
@@ -103,7 +108,6 @@ redirect_from:
 <a href="https://aclanthology.org/2020.findings-emnlp.46.pdf" class="paper-icon" data-tooltip="Download PDF"><i class="fas fa-file-pdf" style="color: #D32F2F;"></i></a>
 <a href="#" class="paper-icon" data-tooltip="Copy Citation" data-cite-id="degeneration" onclick="copyCitation('degeneration'); return false;"><i class="fas fa-quote-left"></i></a>
 
-
 <!-- ## Preprints -->
 <ul style="list-style:none; padding-left:2rem; margin:0;">
   <li><h2><span data-i18n="publications.preprints">Preprints</span></h2></li>
@@ -112,8 +116,6 @@ redirect_from:
 - <span class="badge-inline">Preprint 2025</span> [HCR-Reasoner: Synergizing Large Language Models and Theory for Human-like Causal Reasoning](https://arxiv.org/abs/2505.08750v2). Yanxi Zhang, Xin Cong, **Zhong Zhang**<sup>✉︎</sup>, Xiao Liu, Dongyan Zhao<sup>✉︎</sup>, Yesai Wu
 <a href="https://arxiv.org/pdf/2505.08750v2" class="paper-icon" data-tooltip="Download PDF"><i class="fas fa-file-pdf" style="color: #D32F2F;"></i></a>
 <a href="#" class="paper-icon" data-tooltip="Copy Citation" data-cite-id="ac-reason" onclick="copyCitation('ac-reason'); return false;"><i class="fas fa-quote-left"></i></a>
-
-
 
 <!-- ## Prior to LLMs -->
 <ul style="list-style:none; padding-left:2rem; margin:0;">
@@ -145,8 +147,8 @@ redirect_from:
 
 </div>
 
-
-<!-- 研究项目 -->
+<!-- Research Grants -->
+<span class='anchor' id='research-grants'></span>
 <h1><i class="fa fa-university" style="color: #6495ED;"></i> <span data-i18n="grants.title">Research Grants</span></h1>
 <ul style="list-style-type: disc; padding-left: 2rem;">
 <li data-i18n-inline 
@@ -161,7 +163,8 @@ redirect_from:
 </li>
 </ul>
 
-<!-- 学术报告 -->
+<!-- Invited Talks -->
+<span class='anchor' id='invited-talks'></span>
 <h1><i class="fa fa-microphone" style="color: #6495ED;"></i> <span data-i18n="talks.title">Invited Talks</span></h1>
 <ul style="list-style-type: disc; padding-left: 2rem;">
 <li data-i18n-inline
@@ -191,9 +194,8 @@ redirect_from:
 </li>
 </ul>
 
-
-
-<!-- 学术服务 -->
+<!-- Professional Services -->
+<span class='anchor' id='professional-services'></span>
 <h1><i class="fa fa-id-badge" style="color: #6495ED;"></i> <span data-i18n="services.title">Professional Services</span></h1>
 <div class="service-scroll" markdown="1">
 
@@ -220,7 +222,8 @@ redirect_from:
 
 </div>
 
-<!-- 教学 -->
+<!-- Teaching -->
+<span class='anchor' id='teaching'></span>
 <h1><i class="fa fa-graduation-cap" style="color: #6495ED;"></i> <span data-i18n="teaching.title">Teaching</span></h1>
 <h3><span data-i18n="teaching.ta">Teaching Assistant</span></h3>
 <ul style="list-style-type: disc; padding-left: 2rem;">

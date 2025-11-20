@@ -4,19 +4,19 @@ main:
     url: "/#about-me"
 
   - title: "News"
-    url: "/#-news"
+    url: "/#news"
 
   - title: "Publications"
-    url: "/#-selected-publications"
+    url: "/#selected-publications"
 
   - title: "Research Grants"
-    url: "/#-research-grants"
+    url: "/#research-grants"
 
   - title: "Invited Talks"
-    url: "/#-invited-talks"
+    url: "/#invited-talks"
 
   - title: "Professional Services"
-    url: "/#-professional-services"
+    url: "/#professional-services"
 
   - title: "Teaching"
-    url: "/#-teaching"
+    url: "/#teaching"
