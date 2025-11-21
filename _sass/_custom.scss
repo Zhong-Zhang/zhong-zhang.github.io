@@ -58,32 +58,3 @@
   word-wrap: break-word;
   overflow-wrap: break-word;
 }
-
-
-
-.marker-hollow {
-  position: relative;
-  /* 让图标不会被行高拉得太奇怪，可按需调 */
-  line-height: 1;
-}
-
-/* 中间的白色小圆 */
-.marker-hollow::after {
-  content: "";
-  position: absolute;
-  box-sizing: border-box;
-
-  /* 圆的大小，相对于字体大小 */
-  width: 0.3em;
-  height: 0.3em;
-  border-radius: 50%;
-
-  /* 圆的颜色：白色，把中间“挖空” */
-  background: #fff;
-
-  /* 大致放在水滴的“头部中间” */
-  left: 50%;
-  top: 0.2em;           /* 这个值可以微调 */
-  transform: translateX(-50%);
-  pointer-events: none;
-}
