@@ -32,11 +32,15 @@
         </div></li>
       {% endif %}
       {% if author.location %}
-        <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> 
-          <span data-i18n-config 
-            data-lang-en="{{ author.location }}" 
-            data-lang-zh="{{ author.location_zh }}">
-            {{ author.location }}
+        <li class="author-location">
+          <span class="author-location-inner">
+            <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i>
+            <span class="author-location-text"
+                  data-i18n-config 
+                  data-lang-en="{{ author.location }}" 
+                  data-lang-zh="{{ author.location_zh }}">
+              {{ author.location }}
+            </span>
           </span>
         </li>
       {% endif %}

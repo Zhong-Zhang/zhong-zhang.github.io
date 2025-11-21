@@ -35,3 +35,26 @@
 .service-scroll h3:first-child {
   margin-top: 0;
 }
+
+/* 只控制 location 这一行的布局与换行 */
+.author__urls li.author-location .author-location-inner {
+  display: inline-flex;          /* 一个小的行内 flex 容器 */
+  align-items: flex-start;       /* 图标和文字顶部对齐（第一行对齐） */
+}
+
+/* 图标：不被压缩，固定在左侧 */
+.author__urls li.author-location .author-location-inner i {
+  flex-shrink: 0;
+  position: relative;
+  top: 3px;   /* 往下挪 3px，你可以改成 2px/4px 微调 */
+}
+
+/* location 文本：限制宽度、自动换行 */
+.author__urls li.author-location .author-location-text {
+  display: inline-block;
+  max-width: 11em;               /* 控制一行多宽，可以改成 10em / 12em 等 */
+  margin-left: 0.3rem;           /* 图标和文字之间留一点空隙 */
+  white-space: normal !important;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+}
