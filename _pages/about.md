@@ -200,25 +200,25 @@ redirect_from:
 <div class="service-scroll" markdown="1">
 
 <h3><span data-i18n="services.ac">Area Chair</span></h3>
-1. ACL Rolling Review Area Chair 2025 October, 2026 January
+1. ACL Rolling Review Area Chair. 2025 October, 2026 January
 
 <h3><span data-i18n="services.cr">Area Chair</span></h3>
-1. ICLR Program Committee 2026, 2025
-2. ACL Program Committee 2025, 2024
-3. EMNLP Program Committee 2025, 2024
-4. AAAI Program Committee 2026, 2025
-5. NLPCC Program Committee 2025, 2024
-6. ECMLPKDD Program Committee 2025
-7. WiNLP Workshop Program Committee 2024
-8. DLG4NLP Workshop Technical Program Committee 2022
+1. ICLR Program Committee. 2026, 2025
+2. ACL Program Committee. 2025, 2024
+3. EMNLP Program Committee. 2025, 2024
+4. AAAI Program Committee. 2026, 2025
+5. NLPCC Program Committee. 2025, 2024
+6. ECMLPKDD Program Committee. 2025
+7. WiNLP Workshop Program Committee. 2024
+8. DLG4NLP Workshop Technical Program Committee. 2022
 
 <h3><span data-i18n="services.jr">Area Chair</span></h3>
-1. Information Sciences 2025, 2022
-2. Neural Networks 2024, 2023, 2022
-3. Information Fusion 2025
-4. Neurocomputing 2024, 2022
-5. AI Open 2025, 2024
-6. Science China Information Sciences 2025
+1. Information Sciences. 2025, 2022
+2. Neural Networks. 2024, 2023, 2022
+3. Information Fusion. 2025
+4. Neurocomputing. 2024, 2022
+5. AI Open. 2025, 2024
+6. Science China Information Sciences. 2025
 
 </div>
 
