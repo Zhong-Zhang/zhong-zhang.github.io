@@ -200,7 +200,7 @@ redirect_from:
 <div class="service-scroll" markdown="1">
 
 <h3><span data-i18n="services.ac">Area Chair</span></h3>
-1. ACL ARR 2025 October Area Chair
+1. ACL Rolling Review Area Chair 2025 October, 2026 January
 
 <h3><span data-i18n="services.cr">Area Chair</span></h3>
 1. ICLR Program Committee 2026, 2025
