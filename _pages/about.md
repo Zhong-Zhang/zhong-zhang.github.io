@@ -23,8 +23,8 @@ redirect_from:
 
 <p 
   data-i18n-inline
-  data-lang-zh='张众，<a href="https://www.tsinghua.edu.cn">清华大学</a> <a href="https://www.cs.tsinghua.edu.cn">计算机系</a> <a href="https://nlp.csai.tsinghua.edu.cn">自然语言处理实验室</a> “<a href="https://postdoctor.tsinghua.edu.cn/info/zxtz/2097">水木学者</a>”博士后研究员，合作导师为<a href="https://nlp.csai.tsinghua.edu.cn/~lzy/">刘知远</a>副教授。本科（2016）与博士（2023）均毕业于<a href="https://www.uestc.edu.cn">电子科技大学</a>，博士导师为<a href="https://dm.uestc.edu.cn">邵俊明</a>教授。曾于2022年在<a href="https://www.umontreal.ca/">蒙特利尔大学</a> <a href="https://www-labs.iro.umontreal.ca/~liubang/">刘邦</a>副教授课题组访学。'>
-  I am currently a postdoctoral researcher in the "<a href="https://postdoctor.tsinghua.edu.cn/info/zxtz/2097">Shuimu Tsinghua Scholar Program 水木学者</a>" at the <a href="https://nlp.csai.tsinghua.edu.cn">THUNLP</a> Lab, <a href="https://www.cs.tsinghua.edu.cn">Department of Computer Science and Technology</a>, <a href="https://www.tsinghua.edu.cn">Tsinghua University</a>, advised by Assoc. Prof. <a href="https://nlp.csai.tsinghua.edu.cn/~lzy/">Zhiyuan Liu (刘知远)</a>. I received my B.E. (2016) and Ph.D. (2023) from the <a href="https://www.uestc.edu.cn">University of Electronic Science and Technology of China</a>, advised by Prof. <a href="https://dm.uestc.edu.cn">Junming Shao (邵俊明)</a>. I was a visiting scholar at the <a href="https://www.umontreal.ca/">Université de Montréal</a> in 2022, advised by Assoc. Prof. <a href="https://www-labs.iro.umontreal.ca/~liubang/">Bang Liu (刘邦)</a>.
+  data-lang-zh='张众，<a href="https://www.tsinghua.edu.cn">清华大学</a> <a href="https://www.cs.tsinghua.edu.cn">计算机系</a> <a href="https://nlp.csai.tsinghua.edu.cn">自然语言处理实验室</a> “<a href="https://postdoctor.tsinghua.edu.cn/info/zxtz/2097">水木学者</a>”博士后研究员，合作导师为<a href="https://nlp.csai.tsinghua.edu.cn/~lzy/">刘知远</a>教授。本科（2016）与博士（2023）均毕业于<a href="https://www.uestc.edu.cn">电子科技大学</a>，博士导师为<a href="https://dm.uestc.edu.cn">邵俊明</a>教授。曾于2022年在<a href="https://www.umontreal.ca/">蒙特利尔大学</a> <a href="https://www-labs.iro.umontreal.ca/~liubang/">刘邦</a>副教授课题组访学。'>
+  I am currently a postdoctoral researcher in the "<a href="https://postdoctor.tsinghua.edu.cn/info/zxtz/2097">Shuimu Tsinghua Scholar Program 水木学者</a>" at the <a href="https://nlp.csai.tsinghua.edu.cn">THUNLP</a> Lab, <a href="https://www.cs.tsinghua.edu.cn">Department of Computer Science and Technology</a>, <a href="https://www.tsinghua.edu.cn">Tsinghua University</a>, advised by Prof. <a href="https://nlp.csai.tsinghua.edu.cn/~lzy/">Zhiyuan Liu (刘知远)</a>. I received my B.E. (2016) and Ph.D. (2023) from the <a href="https://www.uestc.edu.cn">University of Electronic Science and Technology of China</a>, advised by Prof. <a href="https://dm.uestc.edu.cn">Junming Shao (邵俊明)</a>. I was a visiting scholar at the <a href="https://www.umontreal.ca/">Université de Montréal</a> in 2022, advised by Assoc. Prof. <a href="https://www-labs.iro.umontreal.ca/~liubang/">Bang Liu (刘邦)</a>.
 </p>
 
 <p 
@@ -107,15 +107,6 @@ redirect_from:
 - <span class="badge-inline">EMNLP Findings 2020</span> [Revisiting Representation Degeneration Problem in Language Modeling](https://aclanthology.org/2020.findings-emnlp.46/). **Zhong Zhang**, Chongming Gao, Cong Xu, Rui Miao, Qinli Yang, Junming Shao<sup>✉︎</sup>
 <a href="https://aclanthology.org/2020.findings-emnlp.46.pdf" class="paper-icon" data-tooltip="Download PDF"><i class="fas fa-file-pdf" style="color: #D32F2F;"></i></a>
 <a href="#" class="paper-icon" data-tooltip="Copy Citation" data-cite-id="degeneration" onclick="copyCitation('degeneration'); return false;"><i class="fas fa-quote-left"></i></a>
-
-<!-- ## Preprints -->
-<ul style="list-style:none; padding-left:2rem; margin:0;">
-  <li><h2><span data-i18n="publications.preprints">Preprints</span></h2></li>
-</ul>
-
-- <span class="badge-inline">Preprint 2025</span> [HCR-Reasoner: Synergizing Large Language Models and Theory for Human-like Causal Reasoning](https://arxiv.org/abs/2505.08750v2). Yanxi Zhang, Xin Cong, **Zhong Zhang**<sup>✉︎</sup>, Xiao Liu, Dongyan Zhao<sup>✉︎</sup>, Yesai Wu
-<a href="https://arxiv.org/pdf/2505.08750v2" class="paper-icon" data-tooltip="Download PDF"><i class="fas fa-file-pdf" style="color: #D32F2F;"></i></a>
-<a href="#" class="paper-icon" data-tooltip="Copy Citation" data-cite-id="ac-reason" onclick="copyCitation('ac-reason'); return false;"><i class="fas fa-quote-left"></i></a>
 
 <!-- ## Earlier Research -->
 <ul style="list-style:none; padding-left:2rem; margin:0;">
@@ -208,7 +199,7 @@ redirect_from:
 3. EMNLP Program Committee. 2025, 2024
 4. AAAI Program Committee. 2026, 2025
 5. NLPCC Program Committee. 2025, 2024
-6. ECMLPKDD Program Committee. 2025
+6. ECMLPKDD Program Committee. 2025, 2026
 7. WiNLP Workshop Program Committee. 2024
 8. DLG4NLP Workshop Technical Program Committee. 2022
 
