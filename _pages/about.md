@@ -44,6 +44,11 @@ redirect_from:
 <h1><i class="fas fas fa-fire" style="color: #6495ED;"></i> <span data-i18n="about.news">News</span></h1>
 <ul style="list-style-type: disc; padding-left: 2rem;">
 <li data-i18n-inline 
+    data-lang-zh='2026.03：加入电子科技大学计算机科学与工程学院。'
+    style="display: list-item; list-style-type: disc;">
+    2026.03: Joined the School of Computer Science and Engineering, UESTC.
+</li>
+<li data-i18n-inline 
     data-lang-zh='2025.11：🏠🏠🏠 个人主页上线！'
     style="display: list-item; list-style-type: disc;">
     2025.11: 🏠🏠🏠 My new homepage is online!
@@ -193,17 +198,18 @@ redirect_from:
 <h3><span data-i18n="services.ac">Area Chair</span></h3>
 1. ACL Rolling Review Area Chair. 2025 October, 2026 January
 
-<h3><span data-i18n="services.cr">Area Chair</span></h3>
+<h3><span data-i18n="services.cr">Conference Reviewer</span></h3>
 1. ICLR Program Committee. 2026, 2025
-2. ACL Program Committee. 2025, 2024
-3. EMNLP Program Committee. 2025, 2024
-4. AAAI Program Committee. 2026, 2025
-5. NLPCC Program Committee. 2025, 2024
-6. ECMLPKDD Program Committee. 2025, 2026
-7. WiNLP Workshop Program Committee. 2024
-8. DLG4NLP Workshop Technical Program Committee. 2022
+2. ACL Program Committee. 2026, 2025, 2024
+3. EMNLP Program Committee. 2026, 2025, 2024
+4. NLPCC Program Committee. 2025, 2024
+5. KDD Program Committee. 2026
+6. ECMLPKDD Program Committee. 2026, 2025
+7. AAAI Program Committee. 2026, 2025
+8. WiNLP Workshop Program Committee. 2024
+9. DLG4NLP Workshop Technical Program Committee. 2022
 
-<h3><span data-i18n="services.jr">Area Chair</span></h3>
+<h3><span data-i18n="services.jr">Journal Reviewer</span></h3>
 1. Information Sciences. 2025, 2022
 2. Neural Networks. 2024, 2023, 2022
 3. Information Fusion. 2025
