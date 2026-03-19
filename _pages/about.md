@@ -23,14 +23,15 @@ redirect_from:
 
 <p 
   data-i18n-inline
-  data-lang-zh='张众，<a href="https://www.tsinghua.edu.cn">清华大学</a> <a href="https://www.cs.tsinghua.edu.cn">计算机系</a> <a href="https://nlp.csai.tsinghua.edu.cn">自然语言处理实验室</a> “<a href="https://postdoctor.tsinghua.edu.cn/info/zxtz/2097">水木学者</a>”博士后研究员，合作导师为<a href="https://nlp.csai.tsinghua.edu.cn/~lzy/">刘知远</a>教授。本科（2016）与博士（2023）均毕业于<a href="https://www.uestc.edu.cn">电子科技大学</a>，博士导师为<a href="https://dm.uestc.edu.cn">邵俊明</a>教授。曾于2022年在<a href="https://www.umontreal.ca/">蒙特利尔大学</a> <a href="https://www-labs.iro.umontreal.ca/~liubang/">刘邦</a>副教授课题组访学。'>
-  I am currently a postdoctoral researcher in the "<a href="https://postdoctor.tsinghua.edu.cn/info/zxtz/2097">Shuimu Tsinghua Scholar Program 水木学者</a>" at the <a href="https://nlp.csai.tsinghua.edu.cn">THUNLP</a> Lab, <a href="https://www.cs.tsinghua.edu.cn">Department of Computer Science and Technology</a>, <a href="https://www.tsinghua.edu.cn">Tsinghua University</a>, advised by Prof. <a href="https://nlp.csai.tsinghua.edu.cn/~lzy/">Zhiyuan Liu (刘知远)</a>. I received my B.E. (2016) and Ph.D. (2023) from the <a href="https://www.uestc.edu.cn">University of Electronic Science and Technology of China</a>, advised by Prof. <a href="https://dm.uestc.edu.cn">Junming Shao (邵俊明)</a>. I was a visiting scholar at the <a href="https://www.umontreal.ca/">Université de Montréal</a> in 2022, advised by Assoc. Prof. <a href="https://www-labs.iro.umontreal.ca/~liubang/">Bang Liu (刘邦)</a>.
+  data-lang-zh='现为 <a href="https://www.uestc.edu.cn">电子科技大学</a> <a href="https://www.scse.uestc.edu.cn">计算机科学与工程学院（网络空间安全学院）</a> 讲师。此前在 <a href="https://www.tsinghua.edu.cn">清华大学</a> <a href="https://nlp.csai.tsinghua.edu.cn">自然语言处理实验室</a> 从事博士后研究工作，入选清华大学 <a href="https://postdoctor.tsinghua.edu.cn/info/zxtz/2097">“水木学者”</a> 计划，合作导师为 <a href="https://nlp.csai.tsinghua.edu.cn/~lzy/zh.html">刘知远</a> 教授。本科（2016）与博士（2023）均毕业于 <a href="https://www.uestc.edu.cn">电子科技大学</a>，博士导师为 <a href="https://dm.uestc.edu.cn">邵俊明</a> 教授。2022年曾在 <a href="https://www.umontreal.ca/">蒙特利尔大学</a> <a href="https://www-labs.iro.umontreal.ca/~liubang/">刘邦</a> 副教授课题组访学。'>
+
+  I am currently a Lecturer at the <a href="https://www.scse.uestc.edu.cn/en/">School of Computer Science and Engineering (School of Cyber Security)</a>, <a href="https://en.uestc.edu.cn">University of Electronic Science and Technology of China (UESTC)</a>. Prior to this, I was a postdoctoral researcher in the "<a href="https://postdoctor.tsinghua.edu.cn/info/zxtz/2097">Shuimu Tsinghua Scholar Program</a>" at the <a href="https://nlp.csai.tsinghua.edu.cn">THUNLP</a> Lab, <a href="https://www.tsinghua.edu.cn/en/">Tsinghua University</a>, advised by Prof. <a href="https://nlp.csai.tsinghua.edu.cn/~lzy/">Zhiyuan Liu</a>. I received my B.E. (2016) and Ph.D. (2023) from <a href="https://en.uestc.edu.cn">UESTC</a>, advised by Prof. <a href="https://dm.uestc.edu.cn">Junming Shao</a>. In 2022, I was a visiting scholar at the <a href="https://www.umontreal.ca/">Université de Montréal</a>, working with Assoc. Prof. <a href="https://www-labs.iro.umontreal.ca/~liubang/">Bang Liu</a>.
 </p>
 
 <p 
   data-i18n-inline
-  data-lang-zh='主要研究方向为预训练大模型与大模型智能体，聚焦GUI智能体和工具学习等。在ACL、ICLR、EMNLP、SIGIR、IJCAI等重要国际会议和期刊发表多篇学术论文，谷歌学术引用<a href="https://scholar.google.com/citations?user=NX5TeR4AAAAJ"><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>。'>
-  I am working on Large Language Models and LLM-based Agents, particularly GUI Agents and Tool Learning. My work has appeared at top-tier venues including ACL, ICLR, EMNLP, SIGIR, and IJCAI, with <a href='https://scholar.google.com/citations?user=NX5TeR4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
+  data-lang-zh='主要研究方向为预训练大模型与大模型智能体，重点关注GUI智能体与工具学习等方向。在ACL、ICLR、EMNLP、SIGIR、IJCAI等重要国际会议和期刊发表多篇学术论文，谷歌学术引用<a href="https://scholar.google.com/citations?user=NX5TeR4AAAAJ"><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>。'>
+  My research interests lie in Large Language Models and LLM-based Agents, with a particular focus on GUI Agents and Tool Learning. My work has appeared at top-tier venues including ACL, ICLR, EMNLP, SIGIR, and IJCAI, with <a href='https://scholar.google.com/citations?user=NX5TeR4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 </p>
 
 <p 
@@ -196,25 +197,26 @@ redirect_from:
 <div class="service-scroll" markdown="1">
 
 <h3><span data-i18n="services.ac">Area Chair</span></h3>
-1. ACL Rolling Review Area Chair. 2025 October, 2026 January
+1. ARR Area Chair, Oct 2025, Jan 2026
 
 <h3><span data-i18n="services.cr">Conference Reviewer</span></h3>
-1. ICLR Program Committee. 2026, 2025
-2. ACL Program Committee. 2026, 2025, 2024
-3. EMNLP Program Committee. 2026, 2025, 2024
-4. NLPCC Program Committee. 2025, 2024
-5. KDD Program Committee. 2026
-6. ECMLPKDD Program Committee. 2026, 2025
-7. AAAI Program Committee. 2026, 2025
-8. WiNLP Workshop Program Committee. 2024
-9. DLG4NLP Workshop Technical Program Committee. 2022
+1. ICLR 2025, 2026
+2. ACL 2024, 2025, 2026
+3. EMNLP 2024, 2025, 2026
+4. NLPCC 2024, 2025
+5. KDD 2026
+6. ECMLPKDD 2025, 2026
+7. AAAI 2025, 2026
+8. ACL Student Research Workshop 2026
+9. WiNLP Workshop 2024
+10. DLG4NLP Workshop Technical Program Committee 2022
 
 <h3><span data-i18n="services.jr">Journal Reviewer</span></h3>
-1. Information Sciences. 2025, 2022
-2. Neural Networks. 2024, 2023, 2022
+1. Information Sciences. 2022, 2025
+2. Neural Networks. 2022, 2023, 2024
 3. Information Fusion. 2025
-4. Neurocomputing. 2024, 2022
-5. AI Open. 2025, 2024
+4. Neurocomputing. 2022, 2024
+5. AI Open. 2024, 2025
 6. Science China Information Sciences. 2025
 
 </div>

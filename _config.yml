@@ -7,8 +7,8 @@
 
 # Site Settings
 title                    : "Zhong Zhang (张众)"
-description              : "Postdoctoral Researcher at Tsinghua University"
-description_zh           : "清华大学博士后"
+description              : "Lecturer at UESTC"
+description_zh           : "电子科技大学 讲师"
 repository               : "Zhong-Zhang/zhong-zhang.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -26,8 +26,8 @@ author:
   avatar           : "images/android-chrome-512x512.png"
   bio              : ""
   bio_zh           : ""
-  location         : "Room 4-505, FIT Building, Tsinghua University, Haidian District, Beijing, China"
-  location_zh      : "北京市海淀区清华大学FIT楼4-505"
+  location         : "Room B309, Innovation Center, UESTC"
+  location_zh      : "创新中心 B309"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=NX5TeR4AAAAJ"
