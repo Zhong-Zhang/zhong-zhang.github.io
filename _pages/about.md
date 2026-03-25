@@ -202,14 +202,15 @@ redirect_from:
 <h3><span data-i18n="services.cr">Conference Reviewer</span></h3>
 1. ICLR 2025, 2026
 2. ACL 2024, 2025, 2026
-3. EMNLP 2024, 2025, 2026
-4. NLPCC 2024, 2025
-5. KDD 2026
-6. ECMLPKDD 2025, 2026
-7. AAAI 2025, 2026
-8. ACL Student Research Workshop 2026
-9. WiNLP Workshop 2024
-10. DLG4NLP Workshop Technical Program Committee 2022
+3. NeurIPS 2026
+4. EMNLP 2024, 2025, 2026
+5. NLPCC 2024, 2025
+6. KDD 2026
+7. ECMLPKDD 2025, 2026
+8. AAAI 2025, 2026
+9. ACL Student Research Workshop 2026
+10. WiNLP Workshop 2024
+11. DLG4NLP Workshop Technical Program Committee 2022
 
 <h3><span data-i18n="services.jr">Journal Reviewer</span></h3>
 1. Information Sciences. 2022, 2025
