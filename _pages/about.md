@@ -36,8 +36,8 @@ redirect_from:
 
 <p 
   data-i18n-inline
-  data-lang-zh='👋👋👋 长期招收对大模型智能体研究感兴趣的实习生，欢迎加入我们！<a href="https://nlp.csai.tsinghua.edu.cn/job/30">查看详情</a>。'>
-  👋👋👋 We are continuously seeking highly motivated interns who are interested in LLM-based Agent research. See more details <a href="https://nlp.csai.tsinghua.edu.cn/job/30">here</a>.
+  data-lang-zh='👋👋👋 我与 <a href="https://nlp.csai.tsinghua.edu.cn">THUNLP</a> 保持长期密切合作，并招收对大模型智能体研究感兴趣的实习生，欢迎加入我们！<a href="https://nlp.csai.tsinghua.edu.cn/job/30">查看详情</a>。'>
+  👋👋👋 I collaborate closely with <a href="https://nlp.csai.tsinghua.edu.cn">THUNLP</a> and we are continuously seeking highly motivated interns who are interested in LLM-based agent research. See more details <a href="https://nlp.csai.tsinghua.edu.cn/job/30">here</a>.
 </p>
 
 <!-- News -->
