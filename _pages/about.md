@@ -228,27 +228,21 @@ redirect_from:
 <h3><span data-i18n="teaching.ta">Teaching Assistant</span></h3>
 <ul style="list-style-type: disc; padding-left: 2rem;">
 <li data-i18n-inline
-    data-lang-zh='2020 春季，《大数据分析与挖掘》（英文授课），研究生课程'
+    data-lang-zh='《大数据分析与挖掘》（英）：2017春、2020春'
     style="display: list-item; list-style-type: disc;">
-    Spring 2020, Big Data Analysis and Mining (English), for Graduate Students
+    Big Data Analysis and Mining (EN): Spring 2017, Spring 2020
 </li>
 
 <li data-i18n-inline
-    data-lang-zh='2019 春季，《数据挖掘与大数据分析》，本科生课程'
+    data-lang-zh='《数据挖掘与大数据分析》：2019春'
     style="display: list-item; list-style-type: disc;">
-    Spring 2019, Data Mining and Big Data Analysis, for Undergraduate Students
+    Data Mining and Big Data Analysis: Spring 2019
 </li>
 
 <li data-i18n-inline
-    data-lang-zh='2017 春季，《大数据分析与挖掘》（英文授课），研究生课程'
+    data-lang-zh='《概率论与数理统计》（英）：2016秋'
     style="display: list-item; list-style-type: disc;">
-    Spring 2017, Big Data Analysis and Mining (English), for Graduate Students
-</li>
-
-<li data-i18n-inline
-    data-lang-zh='2016 秋季，《概率论与数理统计》（英文授课），本科生课程'
-    style="display: list-item; list-style-type: disc;">
-    Autumn 2016, Probability and Statistics (English), for Undergraduate Students
+    Probability and Statistics (EN): Autumn 2016
 </li>
 
 </ul>
