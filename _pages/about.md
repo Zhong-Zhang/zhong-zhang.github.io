@@ -207,10 +207,11 @@ redirect_from:
 5. NLPCC 2024, 2025
 6. KDD 2026
 7. ECMLPKDD 2025, 2026
-8. AAAI 2025, 2026
-9. ACL Student Research Workshop 2026
-10. WiNLP Workshop 2024
-11. DLG4NLP Workshop Technical Program Committee 2022
+8. ACMMM 2026
+9. AAAI 2025, 2026
+10. ACL Student Research Workshop 2026
+11. WiNLP Workshop 2024
+12. DLG4NLP Workshop Technical Program Committee 2022
 
 <h3><span data-i18n="services.jr">Journal Reviewer</span></h3>
 1. Information Sciences. 2022, 2025
