@@ -292,14 +292,3 @@ series = {SIGIR '23}
 }
 </div>
 
-<div class="citation-content" data-cite-id="ac-reason" style="display:none;">
-@misc{zhang2025hcrreasonersynergizinglargelanguage,
-      title={HCR-Reasoner: Synergizing Large Language Models and Theory for Human-like Causal Reasoning}, 
-      author={Yanxi Zhang and Xin Cong and Zhong Zhang and Xiao Liu and Dongyan Zhao and Yesai Wu},
-      year={2025},
-      eprint={2505.08750},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2505.08750}, 
-}
-</div>
