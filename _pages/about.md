@@ -207,7 +207,7 @@ redirect_from:
 5. NLPCC 2024, 2025
 6. KDD 2026
 7. ECMLPKDD 2025, 2026
-8. ACMMM 2026
+8. ACM MM 2026
 9. AAAI 2025, 2026
 10. ACL Student Research Workshop 2026
 11. WiNLP Workshop 2024
