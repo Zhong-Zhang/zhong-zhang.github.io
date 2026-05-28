@@ -45,6 +45,11 @@ redirect_from:
 <h1><i class="fas fas fa-fire" style="color: #6495ED;"></i> <span data-i18n="about.news">News</span></h1>
 <ul style="list-style-type: disc; padding-left: 2rem;">
 <li data-i18n-inline 
+    data-lang-zh="2026.05：两篇关于智能体和开放类发现的论文被KDD'26接收"
+    style="display: list-item; list-style-type: disc;">
+    2025.11: Two papers on LLM Agents and Generalized Category Discovery were accepted by KDD'26.
+</li>
+<li data-i18n-inline 
     data-lang-zh='2026.03：加入电子科技大学计算机科学与工程学院。'
     style="display: list-item; list-style-type: disc;">
     2026.03: Joined the School of Computer Science and Engineering, UESTC.
