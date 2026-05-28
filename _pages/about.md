@@ -47,7 +47,7 @@ redirect_from:
 <li data-i18n-inline 
     data-lang-zh="2026.05：两篇关于智能体和开放类发现的论文被KDD'26接收"
     style="display: list-item; list-style-type: disc;">
-    2025.11: Two papers on LLM Agents and Generalized Category Discovery were accepted by KDD'26.
+    2026.05: Two papers on LLM Agents and Generalized Category Discovery were accepted by KDD'26.
 </li>
 <li data-i18n-inline 
     data-lang-zh='2026.03：加入电子科技大学计算机科学与工程学院。'
