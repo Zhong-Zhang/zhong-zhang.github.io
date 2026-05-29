@@ -34,10 +34,10 @@ redirect_from:
   My research interests lie in Large Language Models and LLM-based Agents, with a particular focus on GUI Agents and Tool Learning. My work has appeared at top-tier venues including ACL, ICLR, EMNLP, SIGIR, and IJCAI, with <a href='https://scholar.google.com/citations?user=NX5TeR4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 </p>
 
-<p 
+<p
   data-i18n-inline
-  data-lang-zh='👋👋👋 我与 <a href="https://nlp.csai.tsinghua.edu.cn">THUNLP</a> 保持长期密切合作，并招收对大模型智能体研究感兴趣的实习生，欢迎加入我们！<a href="https://nlp.csai.tsinghua.edu.cn/job/30">查看详情</a>。'>
-  👋👋👋 I collaborate closely with <a href="https://nlp.csai.tsinghua.edu.cn">THUNLP</a> and we are continuously seeking highly motivated interns who are interested in LLM-based agent research. See more details <a href="https://nlp.csai.tsinghua.edu.cn/job/30">here</a>.
+  data-lang-zh='长期招收大模型智能体方向实习生，欢迎加入我们！'>
+  We are seeking highly motivated interns who are interested in LLM Agents. Feel free to reach out!
 </p>
 
 <!-- News -->
@@ -45,7 +45,7 @@ redirect_from:
 <h1><i class="fas fas fa-fire" style="color: #6495ED;"></i> <span data-i18n="about.news">News</span></h1>
 <ul style="list-style-type: disc; padding-left: 2rem;">
 <li data-i18n-inline 
-    data-lang-zh="2026.05：两篇关于智能体和开放类发现的论文被KDD'26接收"
+    data-lang-zh="2026.05：两篇关于智能体和开放类发现的论文被KDD'26接收。"
     style="display: list-item; list-style-type: disc;">
     2026.05: Two papers on LLM Agents and Generalized Category Discovery were accepted by KDD'26.
 </li>
