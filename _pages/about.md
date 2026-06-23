@@ -45,6 +45,11 @@ redirect_from:
 <h1><i class="fas fas fa-fire" style="color: #6495ED;"></i> <span data-i18n="about.news">News</span></h1>
 <ul style="list-style-type: disc; padding-left: 2rem;">
 <li data-i18n-inline 
+    data-lang-zh='<strong style="color:#c00">2026.06：近期有骗子冒用我的身份发送诈骗邮件，请小心防范。</strong>'
+    style="display: list-item; list-style-type: disc;">
+    <strong style="color:#c00">2026.06: Fraud Alert — Beware of recent scam emails impersonating me.</strong>
+</li>
+<li data-i18n-inline 
     data-lang-zh="2026.05：两篇关于智能体和开放类发现的论文被KDD'26接收。"
     style="display: list-item; list-style-type: disc;">
     2026.05: Two papers on LLM Agents and Generalized Category Discovery were accepted by KDD'26.
