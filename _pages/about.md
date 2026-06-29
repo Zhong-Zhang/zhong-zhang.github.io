@@ -218,7 +218,7 @@ redirect_from:
 6. KDD 2026
 7. ECMLPKDD 2025, 2026
 8. ACM MM 2026
-9. AAAI 2025, 2026
+9. AAAI 2025, 2026, 2027
 10. EMNLP DocInsights Workshop 2026
 11. ACL Student Research Workshop 2026
 12. WiNLP Workshop 2024
