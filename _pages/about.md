@@ -45,6 +45,11 @@ redirect_from:
 <h1><i class="fas fas fa-fire" style="color: #6495ED;"></i> <span data-i18n="about.news">News</span></h1>
 <ul style="list-style-type: disc; padding-left: 2rem;">
 <li data-i18n-inline 
+    data-lang-zh="2026.07：一篇关于多模态表征对齐的论文被ACMMM'26接收。"
+    style="display: list-item; list-style-type: disc;">
+    2026.07: One paper on modality alignment was accepted by ACMMM'26.
+</li>
+<li data-i18n-inline 
     data-lang-zh='<strong style="color:#c00">2026.06：近期有骗子冒用我的身份发送诈骗邮件，请小心防范。</strong>'
     style="display: list-item; list-style-type: disc;">
     <strong style="color:#c00">2026.06: Fraud Alert — Beware of recent scam emails impersonating me.</strong>
@@ -225,12 +230,13 @@ redirect_from:
 13. DLG4NLP Workshop Technical Program Committee 2022
 
 <h3><span data-i18n="services.jr">Journal Reviewer</span></h3>
-1. Information Sciences. 2022, 2025
+1. Information Sciences. 2022, 2025, 2026
 2. Neural Networks. 2022, 2023, 2024
 3. Information Fusion. 2025
 4. Neurocomputing. 2022, 2024
 5. AI Open. 2024, 2025
 6. Science China Information Sciences. 2025
+7. Knowledge Based Systems. 2026
 
 </div>
 
