@@ -164,6 +164,11 @@ redirect_from:
 <h1><i class="fa fa-university" style="color: #6495ED;"></i> <span data-i18n="grants.title">Research Grants</span></h1>
 <ul style="list-style-type: disc; padding-left: 2rem;">
 <li data-i18n-inline 
+    data-lang-zh='2027-2029，项目负责人，国家自然科学基金，青年科学基金项目'
+    style="display: list-item; list-style-type: disc;">
+    2027-2029, PI, National Natural Science Foun-dation of China, Young Scientists Fund.
+</li>
+<li data-i18n-inline 
     data-lang-zh='2025-2026，项目负责人，中国博士后科学基金，面上项目'
     style="display: list-item; list-style-type: disc;">
     2025-2026, PI, China Postdoctoral Science Foundation, General Program.
