@@ -242,6 +242,7 @@ redirect_from:
 5. AI Open. 2024, 2025
 6. Science China Information Sciences. 2025
 7. Knowledge Based Systems. 2026
+8. Chinese Journal of Computers. 2026
 
 </div>
 
