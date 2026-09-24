@@ -243,6 +243,7 @@ redirect_from:
 6. Science China Information Sciences. 2025
 7. Knowledge Based Systems. 2026
 8. Chinese Journal of Computers. 2026
+9. Transactions on Big Data. 2026
 
 </div>
 
