@@ -244,6 +244,7 @@ redirect_from:
 7. Knowledge Based Systems. 2026
 8. Chinese Journal of Computers. 2026
 9. Transactions on Big Data. 2026
+10. Acta Electronica Sinica. 2026
 
 </div>
 
