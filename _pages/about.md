@@ -217,7 +217,7 @@ redirect_from:
 <div class="service-scroll" markdown="1">
 
 <h3><span data-i18n="services.ac">Area Chair</span></h3>
-1. ARR Area Chair, Oct 2025, Jan 2026
+1. ARR Area Chair, Oct 2025, Jan 2026, Oct 2026
 
 <h3><span data-i18n="services.cr">Conference Reviewer</span></h3>
 1. ICLR 2025, 2026, 2027
