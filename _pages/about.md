@@ -229,10 +229,11 @@ redirect_from:
 7. ECMLPKDD 2025, 2026
 8. ACM MM 2026
 9. AAAI 2025, 2026, 2027
-10. EMNLP DocInsights Workshop 2026
-11. ACL Student Research Workshop 2026
-12. WiNLP Workshop 2024
-13. DLG4NLP Workshop Technical Program Committee 2022
+10. WWW 2027
+11 EMNLP DocInsights Workshop 2026
+12 ACL Student Research Workshop 2026
+13 WiNLP Workshop 2024
+14 DLG4NLP Workshop Technical Program Committee 2022
 
 <h3><span data-i18n="services.jr">Journal Reviewer</span></h3>
 1. Information Sciences. 2022, 2025, 2026
