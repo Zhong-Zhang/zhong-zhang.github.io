@@ -230,10 +230,11 @@ redirect_from:
 8. ACM MM 2026
 9. AAAI 2025, 2026, 2027
 10. WWW 2027
-11 EMNLP DocInsights Workshop 2026
-12 ACL Student Research Workshop 2026
-13 WiNLP Workshop 2024
-14 DLG4NLP Workshop Technical Program Committee 2022
+11. CVPR 2027
+12. EMNLP DocInsights Workshop 2026
+13. ACL Student Research Workshop 2026
+14. WiNLP Workshop 2024
+15. DLG4NLP Workshop Technical Program Committee 2022
 
 <h3><span data-i18n="services.jr">Journal Reviewer</span></h3>
 1. Information Sciences. 2022, 2025, 2026
@@ -246,6 +247,7 @@ redirect_from:
 8. Chinese Journal of Computers. 2026
 9. Transactions on Big Data. 2026
 10. Acta Electronica Sinica. 2026
+11. Journal of Computer Research and Development. 2026
 
 </div>
 
